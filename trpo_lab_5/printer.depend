@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1733756280 source:c:\users\dikaz\onedrive\desktop\printer\main.cpp
+	<iostream>
+	"Printer.h"
+
+1733755946 c:\users\dikaz\onedrive\desktop\printer\printer.h
+
+1733756280 source:c:\users\dikaz\onedrive\desktop\printer\printer.cpp
+	"Printer.h"
+	<iostream>
+
+1733862116 source:c:\users\dikaz\onedrive\desktop\trpo_lab_5\printer.cpp
+	"Printer.h"
+
+1733862071 c:\users\dikaz\onedrive\desktop\trpo_lab_5\printer.h
+	<iostream>
+
+1733865474 source:c:\users\dikaz\onedrive\desktop\trpo_lab_5\main.cpp
+	<iostream>
+	<limits>
+	"Printer.h"
+
